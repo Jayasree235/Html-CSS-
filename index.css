@@ -19,9 +19,28 @@ p{
     line-height: 1.6;
 }
 /* Q3. */
-div{
+.card{
     border: 1px solid gray;
     padding: 20px;
     margin: 10px;
     width: 300px;
+}
+
+/* Q6. */
+button{
+    background-color: skyblue;
+    color: white;
+}
+button:hover{
+    background-color: darkblue;
+    transition: background 3s ease 3s;
+}
+
+/* Q4. */
+nav{
+    nav-left: ;
+    flex-box
+}
+a{
+    flex: ;
 }
